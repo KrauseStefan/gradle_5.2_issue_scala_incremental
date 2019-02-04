@@ -1,0 +1,1 @@
+java.exe -cp module-a\build\libs\module-a.jar;module-b\build\libs\module-b.jar;. com.module.a.ModuleA
